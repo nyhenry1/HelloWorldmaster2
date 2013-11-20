@@ -1,0 +1,20 @@
+# begin eclipse java
+*.pydevproject
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.dex
+*.cache
+*.apk
+*.ap_
+MoreHealth/bin/classes/*
+MoreHealth/bin/dexedLibs/*
+MoreHealth/bin/res/*
+JsonAndroid/bin/classes/*
+JsonAndroid/bin/dexedLibs/*
+JsonAndroid/bin/res/*
+# end eclipse java
