@@ -11,10 +11,7 @@ tmp/**/*
 *.cache
 *.apk
 *.ap_
-MoreHealth/bin/classes/*
-MoreHealth/bin/dexedLibs/*
-MoreHealth/bin/res/*
-JsonAndroid/bin/classes/*
-JsonAndroid/bin/dexedLibs/*
-JsonAndroid/bin/res/*
+HelloWorldmaster2/bin/classes/*
+HelloWorldmaster2/bin/dexedLibs/*
+HelloWorldmaster2/bin/res/*
 # end eclipse java

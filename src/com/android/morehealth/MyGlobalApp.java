@@ -8,9 +8,9 @@ import android.app.Application;
 public class MyGlobalApp extends Application {
 
 
-	public String baseUrl = "http://more-holdings-engine.herokuapp.com/";
-//	public String baseUrl= "http://192.168.56.1/";
-	public String signIn = "more-health/mobile-sign-in";
+//	public String baseUrl = "http://more-holdings-engine.herokuapp.com/";
+	public String baseUrl= "http://192.168.56.1/";
+	public String signIn = "more-health/mobile-sign-in.php";
 	public String signUp = "more-health/mobile-sign-up";
 	public boolean loginSuccess = false;
 	public String sessionToken = "";
