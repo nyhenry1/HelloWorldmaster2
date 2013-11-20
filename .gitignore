@@ -11,7 +11,7 @@ tmp/**/*
 *.cache
 *.apk
 *.ap_
-HelloWorldmaster2/bin/classes/*
-HelloWorldmaster2/bin/dexedLibs/*
-HelloWorldmaster2/bin/res/*
+bin/classes/*
+bin/dexedLibs/*
+bin/res/*
 # end eclipse java
